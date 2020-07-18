@@ -5,6 +5,7 @@ def loop_message_five_times(string)
  puts string[2]
  puts string[3]
  puts string[4]
+ 
   end
   
 def loop_message_n_times (string , integer)
