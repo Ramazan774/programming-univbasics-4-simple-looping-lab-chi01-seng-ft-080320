@@ -7,6 +7,7 @@ def loop_message_five_times(string)
  puts string[4]
  number =5
  number.times do 
+   puts 
   end
   
 def loop_message_n_times (string , integer)
