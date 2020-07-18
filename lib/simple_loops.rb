@@ -2,7 +2,8 @@ def loop_message_n_times (string)
 5.times do
   puts "Hello World"
   end
-  
+end
+
 def loop_message_n_times (string , integer)
    string=["Hello Moon.", "Hello Moon.", "Hello Moon.", "Hello Moon.", "Hello Moon."]
 puts string [0]
