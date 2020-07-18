@@ -1,6 +1,7 @@
 def loop_message_n_times (string)
+  string = "Hello World"
 5.times do
-  puts "Hello World"
+  puts string
   end
 end
 
