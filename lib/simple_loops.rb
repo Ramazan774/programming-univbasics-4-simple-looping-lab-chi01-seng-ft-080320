@@ -1,3 +1,4 @@
+def loop_message_n_times (string)
 5.times do
   puts "Hello World"
   end
