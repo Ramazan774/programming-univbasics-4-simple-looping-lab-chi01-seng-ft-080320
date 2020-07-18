@@ -1,4 +1,4 @@
-def loop_message_n_times (string)
+def loop_message_five_times (string)
   string = "Hello World"
 5.times do
   puts string
