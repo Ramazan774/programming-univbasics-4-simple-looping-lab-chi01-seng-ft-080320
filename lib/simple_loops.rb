@@ -1,10 +1,5 @@
-def loop_message_five_times(string)
-  string = ["Hello World.", "Hello World.", "Hello World.", "Hello World.", "Hello World."]
- puts string[0]
- puts string[1]
- puts string[2]
- puts string[3]
- puts string[4]
+5.times do
+  puts "Hello World"
   end
   
 def loop_message_n_times (string , integer)
